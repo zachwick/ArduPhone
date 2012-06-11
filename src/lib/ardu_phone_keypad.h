@@ -14,22 +14,6 @@
 //    | S | * | # | C | E |
 //    ---------------------
 
-// Global variables
-int dial_num[10] = {4,1,9,8,9,7,4,5,9};
-
-void setup() {
-   Serial.begin(9600);
-   background(0);
-   draw_buttons();
-}
-
-void loop() {
-   gettouch(); // Start listening for touch events and store them in
-               // mouseX and mouseY respectively
-   // determine which box the touch event happened in
-   //  and store the number in the dial_num array
-   det_touch();
-}
 
 void det_touch() {
   if (mouseX < 79) {
