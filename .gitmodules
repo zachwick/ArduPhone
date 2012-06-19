@@ -1,0 +1,3 @@
+[submodule "src/lib/APKeypad"]
+	path = src/lib/APKeypad
+	url = https://github.com/ZachWick/APKeypad.git
