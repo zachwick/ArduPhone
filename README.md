@@ -34,3 +34,12 @@ The ArduPhone Project
 
 # 6. Contributing
   Contribute in any way that you are able and willing. Hack on some code, redesign hardware, write documentation, or write some rhetoric. Do whatever you feel will benefit the ArduPhone project.
+
+# 7. The ArduPhone Manifesto
+  "A man has a property in his opinions and the free communication of them." - James Madison
+  "A monopoly on the means of communication may define a ruling elite more precisely than the celebrated Marxian formula of monopoly in the means of production." Robert Anton Wilson
+  "We are defined by how we use our power." Gerry Spence
+  "This is our world now... the world of the electron and the switch, the beauty of the baud." The Hacker Manifesto
+  
+  There are countless networks coursing through you at any given time. These networks you to your friends, your family, your online presence, and the rest of the world. All this connectivity comes a price though - the price of your freedom. How many people and agencies have a constant feed on your exact location all because of the pieces of silicon and metal in your pocket; all because of your cellphone. How many apps on your smart phone are transmitting your calendar, your address book, your personal data to their servers where you are no longer in control of it? Data security aside, how does your cellphone even work? Do you know how your phone connects to the telephone network?
+  
