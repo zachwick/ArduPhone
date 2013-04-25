@@ -5,6 +5,8 @@
 //      http://www.opensource.org/licenses/GPL-3.0
 //
 
+#include <SoftwareSerial.h>
+
 // Global Variables
 int dial_num[10] = {4,1,9,8,9,7,4,5,9};
 char* dialed_num[10];
